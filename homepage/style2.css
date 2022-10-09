@@ -1,0 +1,54 @@
+
+
+
+
+  @media (min-width: 768px) {
+    .news-input {
+      width: 50%;
+    }
+  }
+
+body {
+    padding-top: 65px;
+}
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: #FFCCCB ;
+    }
+
+.instructors {
+    padding-top: 60px;
+}
+
+.main-footer {
+  color: white;
+  padding: .25em 0;
+}
+
+.main-footer-container {
+  display: flex;
+  align-items: center;
+}
+
+.main-footer-container ul {
+  flex-grow: 1;
+  text-align: end;
+}
+
+.footer-nav li {
+  padding: 0 .5em;
+}
+
+.footer-nav img {
+  width: 30px;
+  height: 30px;
+}
+
+.container2 {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1.5em;
+}
+
+
+
